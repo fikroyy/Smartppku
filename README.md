@@ -1,7 +1,7 @@
 # Keterangan tugas RPL individu
 
 link github : https://github.com/monhack/Tugas-RPL
-URL Project : smartppku.xyz
+URL Project : http://smartppku.xyz
 Username : admin
 Password : fikri123123
 
