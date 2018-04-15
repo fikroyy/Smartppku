@@ -1,12 +1,12 @@
 # Keterangan tugas RPL individu
 ---
-Link github : https://github.com/monhack/Tugas-RPL
+#### Link github : https://github.com/monhack/Tugas-RPL
 ---
-URL Project : http://smartppku.xyz
+#### URL Project : http://smartppku.xyz
 ---
-Username : admin
+#### Username : admin
 ---
-Password : fikri123123
+#### Password : fikri123123
 ---
-Tugas Project kali ini menggunakan Yii Framework dan http://hostinger.co.id sebagai penyedia domain dan hosting. Alasan memakai hostinger.co.id karena proses mudah.
+#### Tugas Project kali ini menggunakan Yii Framework dan http://hostinger.co.id sebagai penyedia domain dan hosting. Alasan memakai hostinger.co.id karena proses mudah.
 ---
